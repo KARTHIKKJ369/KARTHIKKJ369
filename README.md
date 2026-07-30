@@ -2,7 +2,7 @@
 <h3 align="center">CS undergrad · Security & Systems researcher · Builder of things that run on the edge</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=KARTHIKKJ369&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 <a target="_blank" align="center">
@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
   </a>
-  <a style="margin-left: 10px;" href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a style="margin-left: 10px;" href="https://github.com/KARTHIKKJ369" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/>
   </a>
 </p>
