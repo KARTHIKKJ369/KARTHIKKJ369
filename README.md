@@ -60,7 +60,7 @@
 <h3 align="center">Connect with me 🤝</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/karthik-jayan-8544ba267/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
   </a>
   <a style="margin-left: 10px;" href="https://github.com/KARTHIKKJ369" target="_blank">
