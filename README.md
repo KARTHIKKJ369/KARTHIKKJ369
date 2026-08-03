@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=560&lines=I+enjoy+building+systems+that+keep+working;when+the+internet+doesn%27t.;Cryptography+%C2%B7+LLM+Infra+%C2%B7+Embedded+%C2%B7+Self-hosting" alt="Typing SVG" />
 </a>
 
+<br><br>
+
+<a href="https://portfolio-one-lemon-97.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/karthik-jayan-8544ba267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:karthikjayan369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
 
 <br>
@@ -16,16 +22,16 @@
 $ whoami
 
 Name        :: Karthik Jayan
-Role        :: Systems Builder
-Focus       :: AI Infrastructure
-Research    :: Cryptography (Post-Quantum)
-Base        :: MACE, Kothamangalam · IIIT Kottayam (Intern)
+Role        :: Backend / AI Systems Engineer
+Focus       :: RAG pipelines, multi-agent orchestration, IoT backends
+Research    :: Quantum-Safe Communication (CyberLabs, IIIT Kottayam)
+Education   :: B.Tech CSE, MACE Kothamangalam · CGPA 9.14/10 · 2027
 OS          :: macOS + Linux
 Editor      :: Neovim / VS Code
-Status      :: Building.
+Status      :: Building. Open to Backend/AI Engineering roles.
 ```
 
-I'm a CS undergrad currently researching quantum-safe communication at the **CyberLabs Advanced Cryptology Lab, IIIT Kottayam**. Most of what I build lives at the intersection of infrastructure and AI — retrieval systems that remember things properly, embedded devices that talk to each other over LoRa, and a homelab that quietly does more work than it should.
+Final-year CS undergrad, currently a **Summer Research Intern at CyberLabs' Advanced Cryptology & Quantum-Safe Communication Lab, IIIT Kottayam**. I build production-style AI systems — corrective RAG pipelines, multi-agent orchestration platforms, real-time IoT backends — and run a Mac Mini M4 homelab for self-hosting open models.
 
 I like software that keeps running after the demo ends.
 
@@ -34,34 +40,38 @@ I like software that keeps running after the demo ends.
 ## Currently shipping
 
 ```text
-Recall 2.0             █████████░  90%   persistent memory for LLMs
-Boat Collision System   ███████░░░  70%   LSTM + LoRa mesh, inland waterways
-Cryptography Research   ██████░░░░  60%   post-quantum key exchange
+Maritime Collision Avoidance   █████████░  90%   ESP32/LoRa telemetry + LSTM risk engine
+Multi-Agent LLM Platform       ████████░░  80%   supervisor-led orchestration, 3-tier memory
+LCRAG                          ███████░░░  70%   local-first corrective RAG pipeline
 ```
 
 <br>
 
 ## Featured builds
 
-**Recall 2.0** — persistent semantic memory for LLM agents. Hybrid BM25 + dense retrieval, with an Ebbinghaus-inspired decay curve so old context fades the way it should.
-`Python` `Chroma` `Sentence-Transformers` `LangGraph`
-→ [github.com/KARTHIKKJ369/recall-2.0](https://github.com/KARTHIKKJ369)
+**Maritime Collision-Avoidance Platform** — end-to-end system built at CyberLabs on ESP32/LoRa telemetry and MQTT, with a FastAPI backend and a real-time React/Leaflet dashboard. An LSTM-based trajectory predictor and configurable risk engine, validated across head-on, crossing, and sudden-stop scenarios, plus MQTT-driven cooperative maneuver recommendations and an automated scenario-evaluation pipeline for reproducible safety testing.
+`ESP32` `LoRa` `MQTT` `FastAPI` `React` `Leaflet` `LSTM`
+→ [github.com/KARTHIKKJ369](https://github.com/KARTHIKKJ369)
 
-**Backwater Boat Collision Avoidance** — a collision-risk engine for inland waterway vessels. LSTM trajectory prediction over a LoRa mesh, no cloud dependency required.
-`FastAPI` `LSTM` `LoRa` `React`
-→ [github.com/KARTHIKKJ369/boat-collision](https://github.com/KARTHIKKJ369)
+**Multi-Agent LLM Platform** — a supervisor-led orchestration system that plans a dependency task graph and dispatches specialized agents concurrently. Three-tier memory model — Redis for conversation/execution state, Qdrant for semantic memory, PostgreSQL for durable persistence — deployed via a health-checked Docker Compose stack with optional LangSmith/OTEL/Prometheus telemetry.
+`FastAPI` `LangChain` `Redis` `PostgreSQL` `Qdrant` `Docker`
+→ [github.com/KARTHIKKJ369](https://github.com/KARTHIKKJ369)
 
-**CRAG Pipeline** — corrective retrieval-augmented generation, running entirely on local hardware.
-`LangGraph` `Chroma` `Ollama`
-→ [github.com/KARTHIKKJ369/crag-pipeline](https://github.com/KARTHIKKJ369)
+**LCRAG** — Local-First Corrective RAG Pipeline. A LangGraph-orchestrated retrieval loop that grades document relevance via a lightweight LLM, rewrites weak queries, and retries until sufficient evidence is found. Modular ingestion (web, PDF, markdown, text) with MMR retrieval over a persistent ChromaDB store, running 100% locally through Ollama.
+`Python` `LangGraph` `ChromaDB` `Ollama` `Sentence Transformers`
+→ [github.com/KARTHIKKJ369](https://github.com/KARTHIKKJ369)
 
-**Self-Hosted WebRTC** — a private video-calling stack over a personal Tailscale tunnel. No third-party signaling servers.
+**Recall** — vector-based long-term memory for multi-agent LLMs. A three-agent customer-support pipeline (Intake, Knowledge, Response) backed by a segmented memory bank with hybrid dense/BM25 retrieval fused via min-max normalization, an Ebbinghaus forgetting-curve decay model, and cosine-similarity deduplication (>0.92) at write time.
+`Python` `Flask` `BM25` `Hybrid Retrieval` `REST APIs`
+→ [github.com/KARTHIKKJ369](https://github.com/KARTHIKKJ369)
+
+**Self-Hosted WebRTC** — a private video-calling stack over a personal Tailscale tunnel, no third-party signaling servers.
 `WebRTC` `Node.js` `Android` `Tailscale`
-→ [github.com/KARTHIKKJ369/self-hosted-webrtc](https://github.com/KARTHIKKJ369)
+→ [github.com/KARTHIKKJ369](https://github.com/KARTHIKKJ369)
 
-**Offline UPI** — routes payments over UPI 123PAY via IVR. Works with zero internet connectivity.
+**Offline UPI** — routes payments over UPI 123PAY via IVR, working with zero internet connectivity.
 `Kotlin` `Jetpack Compose` `Telephony`
-→ [github.com/KARTHIKKJ369/offline-upi](https://github.com/KARTHIKKJ369)
+→ [github.com/KARTHIKKJ369](https://github.com/KARTHIKKJ369)
 
 <br>
 
@@ -85,15 +95,17 @@ Everything above runs 24/7 on a single Mac Mini M4, reachable only over Tailscal
 
 ## Stack
 
-**Languages** &nbsp; ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+**Languages** &nbsp; ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-**Infrastructure** &nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white) ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Backend** &nbsp; ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
-**AI / ML** &nbsp; ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+**AI / ML** &nbsp; ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Corrective RAG](https://img.shields.io/badge/Corrective_RAG-4B5563?style=flat-square) ![LSTM](https://img.shields.io/badge/LSTM-4B5563?style=flat-square)
 
-**Mobile** &nbsp; ![Kotlin](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![React](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+**Databases** &nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-4B5563?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Embedded** &nbsp; ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![LoRa](https://img.shields.io/badge/LoRa-2E7D32?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+**DevOps & Infra** &nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white) ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+
+**Mobile & Embedded** &nbsp; ![Kotlin](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![LoRa](https://img.shields.io/badge/LoRa-2E7D32?style=flat-square)
 
 <br>
 
@@ -148,6 +160,9 @@ This needs the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action run
 ## Contact
 
 <p align="center">
+  <a href="https://portfolio-one-lemon-97.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/karthik-jayan-8544ba267/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
