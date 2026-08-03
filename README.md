@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Karthik%20Jayan&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Systems%20Builder%20%E2%80%A2%AI%Engineer&descAlignY=58&descSize=18&descColor=94a3b8" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:1e293b,100:2563eb&section=header&text=Karthik%20Jayan&fontSize=54&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Building%20Reliable%20AI%20Systems%20from%20the%20Edge%20to%20the%20Cloud&descAlignY=60&descSize=18&descColor=94a3b8"
+  width="100%"
+/>
 
 <a href="https://github.com/KARTHIKKJ369">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=560&lines=I+enjoy+building+systems+that+keep+working;when+the+internet+doesn%27t.;Cryptography+%C2%B7+LLM+Infra+%C2%B7+Embedded+%C2%B7+Self-hosting" alt="Typing SVG" />
