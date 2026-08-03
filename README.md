@@ -6,7 +6,7 @@
 />
 
 <a href="https://github.com/KARTHIKKJ369">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=560&lines=I+enjoy+building+systems+that+keep+working;when+the+internet+doesn%27t.;Cryptography+%C2%B7+LLM+Infra+%C2%B7+Embedded+%C2%B7+Self-hosting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=64748B&center=true&vCenter=true&width=760&lines=I+like+building+things+that+last.;Reliable+AI+Systems.;Local+LLMs+%E2%80%A2+Infrastructure+%E2%80%A2+Homelab" alt="Typing SVG" />
 </a>
 
 <br><br>
