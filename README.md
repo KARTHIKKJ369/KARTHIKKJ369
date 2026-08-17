@@ -163,7 +163,7 @@ This needs the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action run
 ## Contact
 
 <p align="center">
-  <a href="https://portfolio-one-lemon-97.vercel.app/">
+  <a href="karthikjayan.dev/">
     <img src="https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/karthik-jayan-8544ba267/">
