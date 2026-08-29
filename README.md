@@ -1,17 +1,21 @@
 <div align="center">
 
-<img src="assests/header.svg" width="100%" alt="Karthik Jayan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1117,100:161b22&section=header" width="100%" alt="" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1&pause=999999&color=F8FAFC&center=true&vCenter=true&width=500&lines=Karthik+Jayan" width="500" height="60" alt="Karthik Jayan" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1800&color=e8384f&center=true&vCenter=true&width=700&lines=In-database+hybrid+retrieval+%E2%80%94+no+dedicated+vector+store.;LangGraph+state+machines+with+%3C5ms+semantic+caching.;TFLite+LSTM+%40+2.42ms+inference+on+ESP32+edge+hardware.;I+like+building+things+that+keep+running." width="700" height="28" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1600&color=e8384f&center=true&vCenter=true&width=680&lines=In-database+hybrid+retrieval+%E2%80%94+no+dedicated+vector+store.;LangGraph+state+machines+with+%3C5ms+semantic+caching.;TFLite+LSTM+%40+2.42ms+inference+on+ESP32+edge+hardware.;I+like+building+things+that+keep+running." width="680" height="46" alt="Tagline" />
 
 <br><br>
 
-<a href="https://karthikjayan.dev/"><img src="https://img.shields.io/badge/karthikjayan.dev-e8384f?style=flat-square" alt="Portfolio" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/karthik-jayan-8544ba267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://github.com/KARTHIKKJ369"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-<a href="mailto:karthikjayan369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://karthikjayan.dev/"><img src="https://img.shields.io/badge/karthikjayan.dev-21262d?style=flat-square&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/karthik-jayan-8544ba267/"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/KARTHIKKJ369"><img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+<a href="mailto:karthikjayan369@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:161b22,100:0d1117&section=footer&reversal=true" width="100%" alt="" />
 
 </div>
 
@@ -68,7 +72,7 @@ Multi-tenant CRAG system of record built entirely on **PostgreSQL 16 + pgvector*
 
 ### ▌ Multi-Agent DAG Platform &nbsp;·&nbsp; [Autonomous Task Orchestration](https://github.com/KARTHIKKJ369/multi-agent-system)
 
-Decomposes ambiguous goals into dependency-aware Directed Acyclic Graphs, dispatching up to 5× concurrent subtasks across 10+ specialized agents. Memory is a deliberate three-tier split: **Redis 7** for session state and distributed locks (`<2ms`), **PostgreSQL 16** for durable execution graphs and audit traces, **Qdrant v1.7** for cross-session semantic retrieval (`<45ms`). Full observability via Prometheus, OpenTelemetry, and LangSmith — visualized in a real-time Next.js 16 DAG dashboard.
+Decomposes ambiguous goals into dependency-aware Directed Acyclic Graphs, dispatching up to 5× concurrent subtasks across 10+ specialized agents. Memory is a deliberate three-tier split: **Redis 7** for session state and distributed locks (`<2ms`), **PostgreSQL 16** for durable execution graphs and audit traces, **Qdrant v1.7** for cross-session semantic retrieval (`<45ms`). Full observability via Prometheus, OpenTelemetry, and LangSmith — visualized in a real-time Next.js 16 dark-mode DAG dashboard.
 
 `Python 3.11` `FastAPI` `LangChain` `Next.js 16` `Redis 7` `PostgreSQL 16` `Qdrant` `OTEL` `Docker Compose`
 
@@ -86,7 +90,7 @@ ESP32 nodes fuse 6-DOF IMU, GPS, and obstacle camera feeds over encrypted **SX12
 
 <sub>Published · JETIR — Journal of Emerging Technologies and Innovative Research</sub>
 
-Memory layer modeled on the Ebbinghaus forgetting curve: each node decays exponentially ($R(t) = e^{-t/\lambda}$), retrieval triggers spaced-repetition reinforcement, stale nodes prune automatically. Hybrid retrieval fuses dense sentence embeddings with BM25 keyword scoring. Write-time cosine deduplication (≥0.92) prevents store inflation. Three-agent pipeline eliminates double-counting across sessions.
+Memory layer modeled on the Ebbinghaus forgetting curve: each node decays exponentially, retrieval triggers spaced-repetition reinforcement, stale nodes prune automatically. Hybrid retrieval fuses dense sentence embeddings with BM25 keyword scoring. Write-time cosine deduplication (≥0.92) prevents store inflation. Three-agent pipeline eliminates double-counting across sessions.
 
 `Python` `Flask` `Sentence-Transformers` `BM25` `SSE` `Chart.js`
 
@@ -165,7 +169,7 @@ If it requires the public internet to function, I probably don't trust it yet.
 ![LoRa](https://img.shields.io/badge/LoRa%20SX1278-2E7D32?style=flat-square)
 ![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-**Currently learning** &nbsp; `Rust` · `eBPF` · `Post-Quantum Cryptography` · `Distributed Systems` · `TinyLM (PyTorch from scratch)`
+**Currently learning** &nbsp;`Rust` · `eBPF` · `Post-Quantum Cryptography` · `Distributed Systems` · `TinyLM from scratch`
 
 <br>
 
@@ -192,5 +196,7 @@ If it requires the public internet to function, I probably don't trust it yet.
 <br>
 
 *Build systems that continue running when assumptions fail.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:161b22&section=footer" width="100%" alt="" />
 
 </div>
