@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Karthik Jayan" />
+<img src="assests/header.svg" width="100%" alt="Karthik Jayan" />
 
 <br>
 
